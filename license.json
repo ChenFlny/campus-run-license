@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "allow_all": true,
+  "enabled": true,
+  "allow_all": false,
   "accounts": [
     "13413016"
   ],
@@ -8,5 +8,5 @@
   "msg_off": "本工具已停用，请联系作者",
   "msg_auth": "您的账号未获授权，请联系作者开通",
   "exp": 1823443200,
-  "sig": "33e22caf005f2d31e10d4eaf5b6507a889b19a83baebbb6e7b334b8f43718c09"
+  "sig": "fdbd66cc298d4dcda1f079bebc06eddc7d1949e6b226c68c2f5109d554e790f1"
 }
