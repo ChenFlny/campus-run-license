@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "allow_all": true,
+  "allow_all": false,
   "accounts": [],
   "min_version": 0,
   "msg_off": "本工具已停用，请联系作者",
   "msg_auth": "您的账号未获授权，请联系作者开通",
   "exp": 1823443200,
-  "ts": 1792863881,
-  "sig": "fa589c7e494849644b560edcdc584847409bc6ce48dd99457b1b92e2c0948544"
+  "ts": 1792863883,
+  "sig": "598db78f5d4db0fbe7f404a22f70b005cdc78dd99611b6d1b2c5077164917bfb"
 }
