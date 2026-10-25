@@ -2,13 +2,17 @@
   "enabled": true,
   "allow_all": false,
   "accounts": [
+    "A-8D985815F272E3C0",
+    "A-A1766B634A0356EA",
     "A-B6EA7AFF7D34F071",
+    "A-CE86AE6EF72BFDD9",
+    "A-ECF3C58008D637C3",
     "M-553689C5-F86F-5247-BBF5-13277C83F83A"
   ],
   "min_version": 31,
   "msg_off": "本工具已停用，请联系作者",
   "msg_auth": "本设备未获授权，请把登录页上的「本机设备码」发给作者开通",
   "exp": 1823443200,
-  "ts": 1792909605,
-  "sig": "99970bf4eb7f9dedcbd01c064979efe7e509d0cfd037aeaa4477c0e90cbb47cf"
+  "ts": 1792910238,
+  "sig": "8892e901489c6620a1cc6cd3a23214a66d21d5a7ab3c306edf35b40e8fba714a"
 }
