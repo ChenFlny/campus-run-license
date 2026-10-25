@@ -14,6 +14,23 @@
   "msg_off": "本工具已停用，请联系作者",
   "msg_auth": "本设备未获授权，请把登录页上的「本机设备码」发给作者开通",
   "exp": 1823443200,
-  "ts": 1792927286,
-  "sig": "973083e08050f6068d8042915f11cad42722cab69a748c4cf98542ac2190ebc5"
+  "ts": 1792930021,
+  "latest": {
+    "apk": {
+      "vc": 32,
+      "vn": "1.27",
+      "size": 27582245,
+      "sha256": "b6ee22a5805c3b9498613fee402b759bbd5c08eb738aa47c96cafbdbc508af4e",
+      "url": "https://github.com/ChenFlny/campus-run-dl/releases/download/v1.27/campusrun-1.27.apk",
+      "notes": "v1.27：样本库补齐（西北环+东操场，30→39 节点）+ 路线拟真升级（抖动/随机选路/方向随机/里程浮动）"
+    },
+    "mac": {
+      "vn": "1.27",
+      "size": 21242392,
+      "sha256": "fbe03d246177997d794255d9baa7c33ddc26dd03ca4b9acd77a8b94634408d26",
+      "url": "https://github.com/ChenFlny/campus-run-dl/releases/download/v1.27/campusrun-1.27.dmg",
+      "notes": "v1.27：样本库补齐（西北环+东操场，30→39 节点）+ 路线拟真升级（抖动/随机选路/方向随机/里程浮动）"
+    }
+  },
+  "sig": "db1776fe4ea1e4662b83f0128dd3e22772edac72c3ff045caee19062259695fe"
 }
