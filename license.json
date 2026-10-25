@@ -4,10 +4,10 @@
   "accounts": [
     "M-553689C5-F86F-5247-BBF5-13277C83F83A"
   ],
-  "min_version": 0,
+  "min_version": 29,
   "msg_off": "本工具已停用，请联系作者",
   "msg_auth": "您的账号未获授权，请联系作者开通",
   "exp": 1823443200,
-  "ts": 1792901789,
-  "sig": "a032507350b6d6b705409db08a2229ead83df4e7eed375a226214174f254b365"
+  "ts": 1792901792,
+  "sig": "9162efcb3846cbd9bea4841e5daa1a42bb16fe0259bdb8e3e1fe6ae0286d3505"
 }
