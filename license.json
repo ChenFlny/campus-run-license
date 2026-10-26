@@ -19,27 +19,27 @@
     "A-F2927B4BF49E2B5A",
     "M-553689C5-F86F-5247-BBF5-13277C83F83A"
   ],
-  "min_version": 35,
+  "min_version": 34,
   "msg_off": "本工具已停用，请联系作者",
   "msg_auth": "本设备未获授权，请把登录页上的「本机设备码」发给作者开通",
   "exp": 1823443200,
-  "ts": 1793021495,
+  "ts": 1793023518,
   "latest": {
     "apk": {
-      "vc": 35,
-      "vn": "1.30 α",
-      "size": 27616101,
-      "sha256": "c85e5f07e6523f4981a365142ab353a390b63197d114956bb37de1b0fb8a2f99",
-      "url": "https://github.com/kumori07/campus-run-dl/releases/download/v1.30/campusrun-1.30.apk",
-      "notes": "1. 登录界面改进：本机已有登录/保存的账号时，自动隐藏账号密码框与登录键，改显示「登录新账号」按钮（点一下才展开）\n2. 版本命名：普通版后缀 α、刷跑版后缀 β（界面与更新通道清晰区分）\n3. 设备码容错：ANDROID_ID 为全零/模拟器常量等烂值时，自动改用持久化随机 UUID，根治多机撞同一码、白名单分不清的问题\n4. 刷跑版（沈照博）就绪：设备码格式 RUN-沈照博-XXXXXXXX"
+      "vc": 34,
+      "vn": "1.29",
+      "size": 27615589,
+      "sha256": "f05cb221f7fcbb86b7bc47d13060ef31af1cd540e13b75ae0bd693e138c278e4",
+      "url": "https://github.com/kumori07/campus-run-dl/releases/download/v1.29/campusrun-1.29.apk",
+      "notes": "1. 课外跑路线算法：打卡点落在操场内时改由「刷圈经过」覆盖，不再直线横穿场地/围栏，进出一律走北门\n2. 补全中央广场（图书馆南侧）人行路网，路线更贴真实道路\n3. 跑步数据拟真：速度/步频改成曲线积分，每公里配速与 10 秒配速都有真实起伏；爬升改为各圈累加\n4. 新增远程公告（启动弹一次，读过不再弹）\n5. 仓库改名 kumori07，修正授权/上报地址"
     },
     "mac": {
-      "vn": "1.30 α",
-      "size": 21365540,
-      "sha256": "95c862da15103b0db7f6f30526c62dee8a6c3d1271ed9ebb1c55e2e626f9ee22",
-      "url": "https://github.com/kumori07/campus-run-dl/releases/download/v1.30/campusrun-1.30.dmg",
-      "notes": "1. 登录界面改进：本机已有登录/保存的账号时，自动隐藏账号密码框与登录键，改显示「登录新账号」按钮（点一下才展开）\n2. 版本命名：普通版后缀 α、刷跑版后缀 β（界面与更新通道清晰区分）\n3. 设备码容错：ANDROID_ID 为全零/模拟器常量等烂值时，自动改用持久化随机 UUID，根治多机撞同一码、白名单分不清的问题\n4. 刷跑版（沈照博）就绪：设备码格式 RUN-沈照博-XXXXXXXX"
+      "vn": "1.29",
+      "size": 21367474,
+      "sha256": "ee8c9c3172b7bc46f3a247a65feff4f20589da7952dc47e2f9f728a72ea6e2ca",
+      "url": "https://github.com/kumori07/campus-run-dl/releases/download/v1.29/campusrun-1.29.dmg",
+      "notes": "1. 课外跑路线算法：打卡点落在操场内时改由「刷圈经过」覆盖，不再直线横穿场地/围栏，进出一律走北门\n2. 补全中央广场（图书馆南侧）人行路网，路线更贴真实道路\n3. 跑步数据拟真：速度/步频改成曲线积分，每公里配速与 10 秒配速都有真实起伏；爬升改为各圈累加\n4. 新增远程公告（启动弹一次，读过不再弹）\n5. 仓库改名 kumori07，修正授权/上报地址"
     }
   },
-  "sig": "9d5f566aced4b8e6a1d104cb7fb08b297028c36f58c6896eddf1b07f8d7546f8"
+  "sig": "f2f5d6ca63a64cdd3bad176f664a775518520e076ab0a89bda4125613e634894"
 }
